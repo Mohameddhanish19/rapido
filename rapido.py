@@ -1,4 +1,4 @@
-thisset = {"apple", "banana", "cherry", "grape", "orange", "guva", "kiwi", "musmbi"}
+thisset = {"apple", "banana", "cherry", "grape", "orange", "guva", "kiwi", "musmbi", "sapota"}
 
 thisset.remove("apple")
 
