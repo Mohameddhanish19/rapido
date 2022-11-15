@@ -1,5 +1,5 @@
 thisset = {"apple", "banana", "cherry"}
 
-thisset.remove("banana")
+thisset.remove("cherry")
 
 print(thisset)
